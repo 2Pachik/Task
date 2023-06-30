@@ -1,0 +1,22 @@
+{
+    "C:": {
+        "Users": {
+            "byyyy": {
+                "Desktop": {
+                    "Server files": {
+                        "folder a": {
+                            "file a": ".docx"
+                        },
+                        "folder b": {
+                            "file a": ".docx",
+                            "folder a": {
+                                "file a": ".docx",
+                                "file b": ".docx"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
